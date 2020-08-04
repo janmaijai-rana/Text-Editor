@@ -12,5 +12,18 @@
   
 * In case you don't want to do above steps and just want to look how text editor works then you should just copy the code from
   **Textpad.py** and run it in your python IDE.
-  
-![Text Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(4).png)
+
+## Some ScreenShots Of Text Editor
+
+![Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(4).png)
+
+![Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(9).png)
+
+![Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(10).png)
+
+![Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(11).png)
+
+![Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(14).png)
+
+
+
