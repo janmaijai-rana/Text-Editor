@@ -1,7 +1,7 @@
 # TEXT EDITOR
 
 
-* Dist directory contains Setup which you can directly install in your computer and run. Remember it is a Window Setup.
+* This directory contains Setup which you can directly install in your computer and run. Remember it is a Window Setup.
 
 * if you are mac user you should type command  **python setup.py bdist_dmg** in Terminal.This command will create a setup file for mac.
 
