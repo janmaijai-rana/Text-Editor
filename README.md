@@ -13,4 +13,4 @@
 * In case you don't want to do above steps and just want to look how text editor works then you should just copy the code from
   **Textpad.py** and run it in your python IDE.
   
-![alt text]("C:\Users\admin\Pictures\Screenshots\Screenshot (4).png"
+![Alt text](images/Screenshot (4).png)<br>
