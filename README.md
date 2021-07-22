@@ -23,7 +23,7 @@
 
 <kbd> ![Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(11).png) </kbd>
 
-!<kbd> [Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(14).png) </kbd>
+<kbd> ![Text_Editor](https://raw.github.com/Maverick-99/Text-Editor/master/images/Screenshot(14).png) </kbd>
 
 
 
